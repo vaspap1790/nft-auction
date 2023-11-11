@@ -1,0 +1,9 @@
+minty/.idea
+minty/node_modules
+minty/minty-deployment.json
+minty/config/default.env
+minty/.env
+
+#Hardhat files
+minty/cache
+minty/artifacts
